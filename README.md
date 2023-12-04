@@ -3,4 +3,4 @@
 
 
 ## About
-
+The administration or management application for the SMKN 2 Tasikmalaya residents' cooperative is developed using Laravel 8
